@@ -62,7 +62,7 @@ DELETE /units/:id
 ---
 
 ### 🚀 Clonez/Downloadez le repo puis assignez lui l'URL d'un nouveau repo git que vous aurez créé afin de pouvoir nous le partager.
-### Merci de ne pas forker le repo afin de ne pas involontairement partager votre travail avec les autres candidats 😉
+### Merci de ne pas forker le repo pour ne pas involontairement partager votre travail avec les autres candidats 😉
 
 Voici les identifiants Github à ajouter en tant que collaborateur:
 
