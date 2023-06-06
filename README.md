@@ -7,7 +7,7 @@ Le but du cas technique est de réaliser des routes API ainsi que la constructio
 -   les biens
 -   les propriétaires
 
-###Voici un exemple regroupant les 2 entités avec leurs attributs:
+### Voici un exemple regroupant les 2 entités avec leurs attributs:
 
 ```json
 {
@@ -31,7 +31,7 @@ Le but du cas technique est de réaliser des routes API ainsi que la constructio
 }
 ```
 
-####Voici les routes et leurs comportements à reproduire:
+#### Voici les routes et leurs comportements à reproduire:
 
 ```
 GET /units
