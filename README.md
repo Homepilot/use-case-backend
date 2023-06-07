@@ -1,6 +1,6 @@
 # Cas technique Backend 🛠️
 
-Le but du cas technique est de réaliser des routes API ainsi que la construction de la base de donnée. Il est à réaliser en 3h maximum. Nous attendons de vous que vous réalisiez le cas technique avec le framework NestJS ainsi qu'une base de donnée relationelle.
+Le but du cas technique est de réaliser des routes API ainsi que la construction de la base de données. Il est à réaliser en 3h maximum. Nous attendons de vous que vous réalisiez le cas technique avec le framework NestJS ainsi qu'une base de données relationelle.
 
 ##### Pour notre cas technique nous avons 2 entités:
 
@@ -59,7 +59,10 @@ DELETE /units/:id
 
 **⚠️ Les routes sont présenté au format REST, cependant vous pouvez utiliser GraphQL si vous le souhaitez.**
 
-##### 🚀 Pour pouvoir suivre votre avancer vous devez fork le repos ou alors changer la remote et nous ajouter en tant que collaborateur.
+---
+
+### 🚀 Clonez/Downloadez le repo puis assignez lui l'URL d'un nouveau repo git que vous aurez créé afin de pouvoir nous le partager.
+### Merci de ne pas forker le repo pour ne pas involontairement partager votre travail avec les autres candidats 😉
 
 Voici les identifiants Github à ajouter en tant que collaborateur:
 
